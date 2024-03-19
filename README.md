@@ -122,12 +122,19 @@
 
 # Spring Security
 
-What is ThreadLocal in Java? Memory available to all threads, Give a real time scenario -> Sprincg Security authenctication
+What is ThreadLocal in Java? 
+
+Memory available to all threads, Give a real time scenario -> Sprincg Security authenctication
+
 Spring SecurityContext scope (Security life cycle in Spring Security)
+
 How does Basic Authentication work in Rest API?
+
 Code walkthrough on the spring security internal workflow
 
+
 Basic Auth
+
 
 JSON Web Token - JWT
 
