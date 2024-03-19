@@ -126,3 +126,21 @@
     Spring SecurityContext scope (Security life cycle in Spring Security)
     How does Basic Authentication work in Rest API?
     Code walkthrough on the spring security internal workflow
+
+- Basic Auth
+
+- JSON Web Token - JWT
+
+      How JWT work? Internal fow of JWT
+        
+      How to craete a token by JWT?
+        
+      How JWT token validated?
+        
+      How long jwt token valid & after that what will happen(refresh a new token or expire)?
+        
+      JWT token default expiry time?
+
+
+- OAuth 2.0
+
